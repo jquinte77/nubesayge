@@ -22,7 +22,7 @@ CI_ENVIRONMENT = production
 
 # app.baseURL = ''
 # If you have trouble with `.`, you could also use `_`.
-app_baseURL = 'http://localhost:8013/sayge/'
+app_baseURL = 'https://laratec12.herokuapp.com/' 
 # app.forceGlobalSecureRequests = false
 
 # app.sessionDriver = 'CodeIgniter\Session\Handlers\FileHandler'
